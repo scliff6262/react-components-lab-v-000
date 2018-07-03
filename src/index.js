@@ -15,6 +15,11 @@ export class OlderCoaster extends Component {
    render() {
      return (
        <p>Two grannies having the time of their life!<p>
+       <p>Passengers:</p>
+       <ul>
+          <li>Agnes</li>
+          <li>Muriel</li>
+       </ul>
      )
    }
 
